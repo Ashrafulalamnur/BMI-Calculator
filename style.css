@@ -82,8 +82,9 @@ input:focus {
 }
 
 .calculate_btn button {
-    font-family: "Tiro Bangla", "Times New Roman"
-        padding: 10px;
+    font-family: "Tiro Bangla", "Times New Roman";
+    padding: 10px;
+    color: #fff;
     border: none;
     background-color: #00f558;
     border-radius: 5px;
