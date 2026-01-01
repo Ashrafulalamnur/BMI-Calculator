@@ -33,9 +33,8 @@ header {
 }
 
 .bn a {
-    font-family: "Tiro Bangla"
-
-        color white;
+    font-family: "Tiro Bangla","Times New Roman";
+    color: white;
     text-decoration: none;
 }
 
@@ -84,7 +83,7 @@ input:focus {
 .calculate_btn button {
     font-family: "Tiro Bangla", "Times New Roman";
     padding: 10px;
-    color: #fff;
+    color: black;
     border: none;
     background-color: #00f558;
     border-radius: 5px;
