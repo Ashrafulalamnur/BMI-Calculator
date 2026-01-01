@@ -7,6 +7,9 @@ body {
     font-family: "Tiro Bangla", "Times New Roman";
     background-color: black;
 }
+a{
+    font-family: "Tiro Bangla", "Times New Roman";
+}
 header {
     width: 100%;
     color: white;
@@ -28,7 +31,7 @@ header {
     border-radius: 5px;
 }
 .bn a {
-    font-family: "Tiro Bangla", "Times New Roman";
+    
     color: white;
     text-decoration: none;
 }
