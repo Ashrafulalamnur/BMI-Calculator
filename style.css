@@ -3,10 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 body {
     font-family: "Tiro Bangla", "Times New Roman";
     background-color: black;
 }
+
 header {
     width: 100%;
     color: white;
@@ -19,25 +21,31 @@ header {
     border-bottom: 1px solid #ccc;
     background-color: black;
 }
+
 .name {
     padding: 10px;
 }
+
 .bn {
     border: 1px solid blue;
     padding: 10px;
     border-radius: 5px;
 }
+
 .bn a {
-    
-    color: white;
+    font-family: "Tiro Bangla"
+
+        color white;
     text-decoration: none;
 }
+
 main {
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
 .main_section {
     background-color: #e3ff9a;
     display: flex;
@@ -47,9 +55,11 @@ main {
     border-radius: 10px;
     transition: 0.5s ease-in-out;
 }
+
 h1 {
     margin-bottom: 10px;
 }
+
 input {
     height: 40px;
     width: 100px;
@@ -60,27 +70,32 @@ input {
     padding: 10px;
     font-family: "Tiro Bangla", "Times New Roman";
 }
+
 input:focus {
     text-align: left;
-    
+
 }
+
 .calculate_btn {
     text-align: center;
     margin-top: 10px;
 }
+
 .calculate_btn button {
     font-family: "Tiro Bangla", "Times New Roman"
-    padding: 10px;
+        padding: 10px;
     border: none;
     background-color: #00f558;
     border-radius: 5px;
 }
+
 footer {
     color: white;
     position: fixed;
     bottom: 0;
     padding: 10px;
 }
+
 footer a {
     color: white;
 }
