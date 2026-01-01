@@ -7,9 +7,6 @@ body {
     font-family: "Tiro Bangla", "Times New Roman";
     background-color: black;
 }
-a{
-    font-family: "Tiro Bangla", "Times New Roman";
-}
 header {
     width: 100%;
     color: white;
@@ -61,11 +58,14 @@ input {
     border: 1.5px solid black;
     border-radius: 5px;
     padding: 10px;
+    font-family: "Tiro Bangla", "Times New Roman"
 }
 input:focus {
     text-align: left;
+    
 }
 .calculate_btn {
+    font-family: "Tiro Bangla", "Times New Roman"
     text-align: center;
     margin-top: 10px;
 }
